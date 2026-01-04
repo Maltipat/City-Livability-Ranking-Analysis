@@ -1,0 +1,44 @@
+
+CITY LIVABILITY RANKING ANALYSIS - EXECUTIVE SUMMARY
+Generated: 2026-01-04
+
+OVERVIEW:
+- Cities Analyzed: 95
+- Features Used: 14
+- PCA Variance Explained: 62.5%
+
+SCORING METHODOLOGY:
+- Safety (40%): Crime rates, safety perception, walking safety
+- Environment (30%): Air quality, pollution, green space
+- Economy (20%): Cost of living, employment, GDP per capita
+- Health/Education (10%): Healthcare quality, education, life expectancy
+
+TOP 5 CITIES:
+ livability_rank city_name  country  livability_score
+               1    Lisbon Portugal         89.282097
+               2  Istanbul   Turkey         89.022162
+               3   Calgary   Canada         88.810169
+               4 Stockholm   Sweden         85.702733
+               5    Dublin  Ireland         83.914423
+
+REGIONAL AVERAGES:
+               livability_score  safety_score  environment_score  economy_score
+region                                                                         
+Oceania                   71.78         68.55              74.15          73.78
+Europe                    71.28         67.74              73.83          72.17
+North America             68.67         69.42              67.84          65.22
+Africa                    40.03         33.04              54.72          37.95
+Asia                      39.09         40.41              42.29          34.14
+South America             36.20         27.21              52.37          35.58
+
+KEY FINDINGS:
+- European cities dominate top rankings with average score 71.28
+- 30 cities require urgent policy intervention
+- Safety and environmental quality are primary differentiators
+- Cost of living shows inverse correlation with livability in some regions
+
+RECOMMENDATIONS:
+1. Focus environmental improvements on bottom 30 cities
+2. Enhance safety infrastructure in low-scoring regions
+3. Balance economic development with quality of life metrics
+4. Promote best practices from top-ranked European cities
