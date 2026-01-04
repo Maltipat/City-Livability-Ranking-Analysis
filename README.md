@@ -316,18 +316,11 @@ Contributions welcome! Please:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
-
----
-
 ## 👨‍💻 Author
 
-**[Your Name]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+**[Malti Pathak]**
+- Email: pathakmalti7@gmail.com
+
 
 ---
 
@@ -339,13 +332,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 - FAANG mentors for code review and guidance
 
 ---
-
-## 📞 Contact & Support
-
-For questions, suggestions, or collaboration:
-- **Issues**: [GitHub Issues](https://github.com/yourusername/livability-analysis/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
